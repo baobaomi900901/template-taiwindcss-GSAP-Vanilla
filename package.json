@@ -1,0 +1,13 @@
+{
+  "name": "taiwindcss-GSAP-Vanilla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/assets/input.css -o ./dist/output.css --watch"
+  },
+  "devDependencies": {
+    "gsap": "^3.10.3",
+    "tailwindcss": "^3.0.24"
+  }
+}

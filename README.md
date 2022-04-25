@@ -1,2 +1,5 @@
 # template-taiwindcss-GSAP-Vanilla
-# template-taiwindcss-GSAP-Vanilla
+
+## 运行 taiwindcss 
+
+yarn watch
